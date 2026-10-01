@@ -44,4 +44,4 @@ I'll showcase my completed Data Science projects here.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Desard1&show_icons=true&theme=tokyonight)
