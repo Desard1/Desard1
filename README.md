@@ -7,7 +7,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 I have a background in Applied Mathematics and Computer Science.
 
@@ -17,14 +17,14 @@ mathematical modeling to real-world problems.
 My long-term interests include quantitative finance,
 optimization and stochastic modeling.
 
-## 🔬 Areas of Interest
+##  Areas of Interest
 
 - Machine Learning and Data Science
 - Statistical Modeling
 - Mathematical Optimization
 - Quantitative Finance
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,16 +32,16 @@ optimization and stochastic modeling.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Predictive modeling with scikit-learn
 - Statistical learning
 - Numerical computing with Python
 
-## 📂 Featured Projects
+##  Featured Projects
 
 I'll showcase my completed Data Science projects here.
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Desard1&show_icons=true&theme=tokyonight)
